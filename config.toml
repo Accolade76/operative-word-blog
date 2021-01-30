@@ -12,11 +12,11 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "My blog"
+    title = "Operative Word"
     weight = 1
     contentDir = "content/en"
   [languages.fr]
-    title = "Mon blogue"
+    title = "Mijn Blog"
     weight = 2
     contentDir = "content/fr"
 
