@@ -2,7 +2,7 @@ title = "Operative Word"
 baseURL = "https://saketkulkarni.com"
 languageCode = "en-us"
 theme = "ananke"
-resourceDir = "../resources"
+resourceDir = "/resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
