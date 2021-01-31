@@ -15,10 +15,6 @@ enableRobotsTXT = true
     title = "Operative Word"
     weight = 1
     contentDir = "content/en"
-  [languages.fr]
-    title = "Mijn Blog"
-    weight = 2
-    contentDir = "content/fr"
 
 [sitemap]
   changefreq = "monthly"
