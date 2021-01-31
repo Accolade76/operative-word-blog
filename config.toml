@@ -3,6 +3,7 @@ baseURL = "https://saketkulkarni.com"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
+canonifyURLs = true
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
