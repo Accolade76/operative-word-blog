@@ -1,5 +1,6 @@
 ---
 title: "Operative Word"
+featured_image: '/images/blog-banner.jpg'
 description: "By Saket Kulkarni"
 ---
 The only constant is change. It is one of the few things that is paradoxically a constant.
