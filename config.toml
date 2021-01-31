@@ -27,7 +27,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = ""
+  site_logo = "/images/blog-logo.png"
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
   twitter = "https://twitter.com/saket2u"
@@ -42,5 +42,6 @@ enableRobotsTXT = true
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+  # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "/images/blog-banner.jpg"
+  recent_posts_number = 3
