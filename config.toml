@@ -24,7 +24,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = "/images/blog-logo.png"
-  description = "The last theme you'll ever need. Maybe."
+  description = ""
   facebook = ""
   twitter = "https://twitter.com/saket2u"
   instagram = ""
