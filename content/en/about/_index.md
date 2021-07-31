@@ -4,12 +4,12 @@ description: "The biggest lies we save for ourselves. ― Mark Lawrence, Prince 
 featured_image: ''
 ---
 
-There are more important topics in the world than the ones I’ll be writing about. The anthropocene climate change that is transforming our natural ecosystems is about to transform our political and environmental landscape. The insecurity of an increasingly complex world is spawning reactionary tribalism in communities around the world. In a time when we should be coming together, learning from each other, celebrating our differences and facing these challenges together, we are squabbling over stale scraps like crows over a discarded happy meal.
+Briefly, I am a husband and a father of two. My prononuns are he/him.  I work as a consultant, currently focused on agile/DevOps coaching and I'm working on improving my technical coaching skills.
 
-Still, I believe in our potential, our ability to rise to meet our challenges and to show the compassion and grace we will all need to weather the future ahead of us.
+My interests are broad, as this blog will reflect. I suggest, if you're interested in my writing, to make use of the tags available to filter out content that doesn't interest you.
 
-This blog is about whatever topic moves me: it can be activism, impassioned rhetoric, tech, philosophy and perhaps even the occasional poetic verse.
+I believe strongly in the values of Humanism and I think we will only overcome the challenges ahead of us by showing some kindness, selflessness and trying to look after each other (perhaps even more than we look after ourselves).
 
-I’ll try to distinguish my content by using the appropriate tags to classify it so you can quickly filter on the content that interests you.
+No one is infallible and I reserve the right to update, change or take down posts to reflect my updated understanding of a subject.
 
 All opinions stated on this site (unless I’ve been hacked) are mine and mine alone, they do not reflect the opinion(s) of my employer or customers.
