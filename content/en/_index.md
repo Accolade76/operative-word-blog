@@ -1,6 +1,6 @@
 ---
 title: "Operative Word"
-description: "By Saket Kulkarni"
+description: "By Saket K"
 ---
 
 ![vista of man standing on cliff](pexels-snapwire-6763.jpeg "Photo by Snapwire from Pexels")
