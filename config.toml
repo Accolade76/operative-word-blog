@@ -21,6 +21,11 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
 [params]
   favicon = ""
   site_logo = "/images/blog-logo.png"
