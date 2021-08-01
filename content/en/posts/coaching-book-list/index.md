@@ -4,7 +4,8 @@ date = 2021-08-01T12:19:53+02:00
 categories = ["Books"]
 tags = ["book","tech"]
 series = []
-description = "A curated reading list for technical coaches"
+description = "A curated reading list for (technical) agile coaches"
+summary = "A curated reading list for (technical) agile coaches"
 draft = true
 +++
 
