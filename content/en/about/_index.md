@@ -1,7 +1,6 @@
 ---
 title: "About"
 description: "The biggest lies we save for ourselves. ― Mark Lawrence, Prince of Thorns"
-featured_image: ''
 ---
 
 Briefly, I am a husband and a father of two. My prononuns are he/him.  I work as a consultant, currently focused on agile/DevOps coaching and I'm working on improving my technical coaching skills.
