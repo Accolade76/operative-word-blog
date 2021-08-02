@@ -7,6 +7,8 @@ description: "By Saket K"
 
 Welcome.
 
-This is a place for me to explore ideas on current affairs, tech, writing. It'll be varied fare so please feel free to have a look at the categories of posts listed here and see if any catch your fancy.
+This is a place for me to explore ideas on current affairs, tech, writing, martial arts, philosophy, etc.
+
+It'll be varied fare so please feel free to have a look at the categories of posts listed here and see if any catch your fancy.
 
 Opinions are my own except for where stated otherwise.
