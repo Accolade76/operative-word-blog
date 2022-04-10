@@ -2,8 +2,8 @@
 title = "Bringing Your Dotfiles Under Version Control - Update"
 author = "Saket K"
 date = 2021-08-07T16:48:26+02:00
-categories = ["tech", "how-to"]
-tags = ["bash", "*nix"]
+categories = ["how-to"]
+tags = ["bash", "*nix", "tech"]
 series = []
 summary = "An update on bringing your *nix configuration files under version control"
 +++

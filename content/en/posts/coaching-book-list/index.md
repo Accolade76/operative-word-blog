@@ -1,7 +1,7 @@
 +++
 title = "Coaching Book List"
 date = 2021-08-01T12:19:53+02:00
-categories = ["Books"]
+categories = ["agile-devops"]
 tags = ["book","tech"]
 series = []
 description = "A curated reading list for (technical) agile coaches"
