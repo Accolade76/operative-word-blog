@@ -23,12 +23,6 @@ These are books I return to frequently for inspiration and refreshing my ideas.
 This is a must read for any coach working in the agility/DevOps space. While the book has a technical-sounding title, it is very accessibly written and, in my opinion, really captures the core ideals of agility and agile teams.
 {{< /bookshop >}}
 
-# Technical Practices
-
-# Agility
-
-# DevOps
-
-# Software Crafting
-
-
+{{< bookshop isbn="9781941222379" img="left">}}
+Ron Jeffries does a wonderful job of describing how software development should be approached and helps to reduce complexity with an almost Taoist sensibility for discarding the unnecessary and focusing on the pertinent!
+{{< /bookshop >}}

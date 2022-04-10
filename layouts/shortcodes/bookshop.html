@@ -9,6 +9,9 @@
   {{ $classes := "float-left mr-3"  }}
   {{ if eq $showImage "right"  }}{{ $classes = "float-right ml-3"  }}{{ end  }}
   {{ if $showImage  }}<p class="clearfix">{{ end  }}
+  <hr/>
+  {{ $title := .Get "title"  }}
+  <h4>{{ if $title  }}{{ $title  }}{{ else  }}{{ $data.title  }}{{ end  }}</h4>
   <a href="{{ $data.url  }}">
     {{ $imgResources := .Page.Resources.Match $isbnImage  }}
     {{ $image := index $imgResources 0  }}
@@ -19,6 +22,7 @@
     {{ if $title  }}{{ $title  }}{{ else  }}{{ $data.title  }}{{ end  }}
     {{ end  }}
   </a>
+  <br/>
 
   {{ .Inner  }}
 {{ if $showImage  }}</p>{{ end  }}

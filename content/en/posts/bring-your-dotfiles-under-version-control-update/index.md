@@ -51,14 +51,14 @@ This is the `setup_dotfiles.sh` as I have it at the moment:
 #
 # setup_dotfiles.sh
 
-dotfilesdir="${HOME}/etc" #change the etc directory name to whatever name you prefer
+dotfilesdir="${HOME}/etc" #change the dotfiles directory name to whatever name you prefer
 ignorefile="${dotfilesdir}/.dotfileignore"
 skipfile=0
 countnewfiles=0
 
-# Check the etc directory exists
+# Check the dotfiles directory exists
 if [[ ! -d $dotfilesdir ]]; then
-    # if not: create etc directory
+    # if not: create dotfiles directory
     if mkdir "$dotfilesdir"; then
         echo "Created ${dotfilesdir}."
     else
@@ -96,7 +96,7 @@ echo "$countnewfiles files added."
 The .dotfileignore file looks like this:
 
 
-```bash {linenos=table}
+```bash {linenos=true}
 .DS_Store
 .zcomp*
 .zsh_history

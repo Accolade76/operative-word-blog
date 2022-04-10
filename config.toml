@@ -27,6 +27,7 @@ enableRobotsTXT = true
   series = "series"
 
 [params]
+  custom_css = ["_code.css"]
   favicon = ""
   site_logo = "/images/blog-logo.png"
   description = ""
