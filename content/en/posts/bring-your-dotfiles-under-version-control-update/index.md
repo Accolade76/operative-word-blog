@@ -6,7 +6,6 @@ categories = ["tech", "how-to"]
 tags = ["bash", "*nix"]
 series = []
 summary = "An update on bringing your *nix configuration files under version control"
-draft = true
 +++
 Recently, I was hacking away on my Mac when I stumbled across a dated but still relevant post from 2013 on "[How to bring your dotfiles under version control](https://tekguru.wordpress.com/2013/08/19/howto-bring-your-dotfiles-under-version-control/)".
 
