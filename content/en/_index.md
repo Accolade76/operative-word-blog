@@ -3,7 +3,7 @@ title: "Operative Word"
 description: "By Saket K"
 ---
 
-![vista of man standing on cliff](pexels-snapwire-6763.jpeg "Photo by Snapwire from Pexels")
+![vista of man standing on cliff](pexels-snapwire-6763.jpeg "Photo Source: Snapwire from Pexels")
 
 Welcome.
 
