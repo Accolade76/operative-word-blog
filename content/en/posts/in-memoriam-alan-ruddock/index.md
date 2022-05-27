@@ -8,7 +8,7 @@ series = []
 summary = "A reflection on passing of my Aikido instructor who was a great inspiration to me."
 +++
 
-![Alan Ruddock](images/Alan_Banner_2012.png "A photo of Aikido instructor Alan Ruddock")
+![Alan Ruddock](images/Alan_Banner_2012.png "Photo courtesy of Thomas Hoebbel Photography & Video")
 
 Today marks the one year anniversary of Alan Ruddock's passing. 
 
