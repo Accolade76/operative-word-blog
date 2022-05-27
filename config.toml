@@ -27,7 +27,7 @@ enableRobotsTXT = true
   series = "series"
 
 [params]
-  custom_css = ["_code.css"]
+  custom_css = ["_code.css","css/custom.css"]
   favicon = ""
   site_logo = "/images/blog-logo.png"
   description = ""
@@ -38,7 +38,7 @@ enableRobotsTXT = true
   github = ""
   gitlab = ""
   linkedin = ""
-  mastodon = ""
+  mastodon = "https://appdot.net/@Saket"
   slack = ""
   stackoverflow = ""
   rss = ""
