@@ -6,6 +6,8 @@ categories = ["social media"]
 tags = []
 series = []
 summary = "A retrospection on my time on App.Net"
+toc = true
+type = "post"
 +++
 
 > Warning (23-05-2022): this post has been left up/re-published for mostly sentimental/nostalgic reasons. It contains many dead links and was written for a very niche audience.
@@ -20,7 +22,7 @@ The main purpose these ‘clubs’ serve for me is to trigger some reflection wh
 
 Today, I wanted to share a bit about how I came to App.Net, how I feel things are currently going, and to end with a retrospective of some of the moments and movements I loved in the community in the past year and a half. That last section will be rather community-biased so give up on this post whenever you feel you’ve read enough.
 
-# Where It Began
+## Where It Began
 
 I backed App.Net on the 7th of August, 2012 as part of its crowd-funding drive and am its 3,148th member. Some quick math tells me that it has been 578 days since I joined up, which puts me at an average of 41.5 posts a day.
 
@@ -42,7 +44,7 @@ If you read Dalton’s posts, he never mentions microblogging in them. His plans
 
 App.Net would give control of their data to its users. It would have a robust API that allowed developers to innovate. And they had big plans to expand the API to bring all sorts of new functionality to the experience. And, in order to avoid the issues of an ad-based business model, App.Net would be a paid service.
 
-# Some Personal Thoughts on App.Net
+## Some Personal Thoughts on App.Net
 
 The idea behind App.Net is very apropos for its time. I will not profess to fully understand the ideas or plans that its founders and developers have, but from what they have said and shown us over the past months there is a huge amount of potential in the service.
 
@@ -69,7 +71,7 @@ After having set up the microblogging site Alpha and getting it very successfull
 As you can see, a lot has happened in the past 578 days. And I haven’t even mentioned all the wonderful apps on multiple platforms built by very talented developers. There are chat room type apps like Patter, and photo/video apps like Climber and Photo-App, journalling apps like Ohai and Sunlit, and many microblogging clients (Felix, Chimp, Riposte, Robin, etc.) and messaging apps (Felix, Whisper, etc.).
 App.Net has come a long way since its initial funding and I must give kudos to Dalton Caldwell and his dedicated team for all the hard work and passion they’ve put into this project. Looking at everything that has happened, even if the community weren’t so great, I’d be happy to resubscribe to App.Net for another year. They’ve delivered and then some on the promises they made. And yet, despite all this diversity, I see some troubling trends. For me, being primarily a user of the service, there are few things I would like to take issue with.
 
-# Microblogging vs Other Applications
+## Microblogging vs Other Applications
 
 Many developers have been trying to come up with new angles on what they can do with the App.Net API. Thanks to the posting and messaging APIs and the powerful File API a lot of things are possible. You can have a photo app that stores all its photos on a user’s sizeable 10GB storage (the files remain fully under the user’s control) and add a social component to them via the App.Net APIs. Or you can create a [blogging service hosted fully on App.Net](http://10centuries.com/).
 
@@ -81,7 +83,7 @@ The value-add for microblogging is pretty clear. The last section of this blog p
 
 Either that, or they are going to need to get outside funding [as they have already done once](http://blog.app.net/2013/08/14/we-are-just-getting-started/). What happens then to the idea of “pay money to get an ad-free feed from a company where the product is something you pay for, not, well, _you_”?
 
-# Users and the Free Tier
+## Users and the Free Tier
 
 As I hope I’ve made clear, in my opinion, the users are still the central element of App.Net. Dalton often states that the goal of App.Net is to create an infrastructure, the pipes as it were, on top of which applications can be built. The fact that App.Net started out as a paid service meant that users were essentially bankrolling the creation of this infrastructure. So what are they getting back for it?
 The argument runs that more features and services on the App.Net API means added value for users. And certainly some developments like the messaging API and the File API have provided us with some excellent features. But do I see the File API as a replacement for Dropbox or Google Drive? Or is messaging a replacement for WhatsApp/Google Chat/Telegram? Not yet. Not until it gains much wider adoption.
@@ -94,7 +96,7 @@ It’s a great move tactically, but it puts pressure on paying users. How strong
 
 For me, renewing is a no-brainer, simply because I cannot fit all the wonderful people I’ve met on the service into the free tier cap of having only 40 people I can follow. But this has little to do with the technical possibilities App.Net offers, it has everything to do with the community that has grown around the very first application: Alpha.
 
-# A Hop and a Skip Down Memory Lane
+## A Hop and a Skip Down Memory Lane
 
 So what’s it like on Alpha?
 
